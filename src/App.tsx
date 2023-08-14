@@ -16,6 +16,7 @@ function App() {
           This is github page from Vite
         </p>
       </div>
+      <p>source code on <a href="https://github.com/narongskml/reactvite/">link</a> </p>
     </>
   )
 }
